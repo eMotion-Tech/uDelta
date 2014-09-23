@@ -18,6 +18,7 @@ You will found the a simple version and another version compatible LCD
 New: Firmware updater Beta!! 
 -------------------------
 *Windows only (still working on the linux version)
+
 This software will simplify your firmware update or modification, you should be able to send a precompiled firmware into your Teensylu with 4 mouses clicks.
 
 This application is an encapsulation of avrdude in java in order to easily update or modify you current firmware. 
