@@ -25,6 +25,9 @@ This application is an encapsulation of avrdude in java in order to easily updat
 You will need to install Java jr7 before using it.
 If you have any feedback do not hesitate.
 
+Note:
+-Require a recent java installation
+
 Bootloader
 -------------------------
 Every informations about the Teensylu bootloader thing can be found here: https://github.com/eMotion-Tech/Teensylu
