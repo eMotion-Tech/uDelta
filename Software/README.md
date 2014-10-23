@@ -15,7 +15,7 @@ Firmware sources
 We used repetier firmware 0.91 with teensylu pinout readressing and some minor changes and customisation.
 You will found the a simple version and another version compatible LCD
 
-New: Firmware updater Beta
+Firmware updater Beta
 -------------------------
 *Windows only (still working on the linux version)
 
