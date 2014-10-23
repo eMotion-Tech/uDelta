@@ -15,7 +15,7 @@ Firmware sources
 We used repetier firmware 0.91 with teensylu pinout readressing and some minor changes and customisation.
 You will found the a simple version and another version compatible LCD
 
-New: Firmware updater Beta!! 
+New: Firmware updater Beta
 -------------------------
 *Windows only (still working on the linux version)
 
@@ -27,6 +27,8 @@ If you have any feedback do not hesitate.
 
 Note:
 -Require a recent java installation
+
+*New Manual update: works directly in the terminal, no gui.
 
 Bootloader
 -------------------------
